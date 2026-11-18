@@ -1,0 +1,20 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build do executavel (PyInstaller)
+build/
+dist/
+*.spec
+
+# Logs e arquivos locais
+*.log
+Claude outputs/
+
+# Sistema
+Thumbs.db
+desktop.ini
